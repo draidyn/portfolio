@@ -1,3 +1,3 @@
 # My portfolio
 This is my portfolio that contains various projects that i have worked on
-Project type will vary
+Project type will vary, covering data structures and algorithms
