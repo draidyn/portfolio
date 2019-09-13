@@ -1,0 +1,30 @@
+import java.util.*;
+
+private class Person {
+    int idNum;
+    String fName;
+    String lName;
+    int bday;
+
+    Person (int w, String x, String y, int z) {
+        idNum = w; fName = x; lName = y; bday = z;
+    }
+
+}
+    public class void main (String[] args) {
+        intro();
+    }
+
+    public static void intro () {
+        int idNum;
+        String fName;
+        String lName;
+        int bday;
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please enter your ID number");
+        fName = input.next();
+        System.out.println("Please input First name, followed by last name");
+        
+
+    }
+}
