@@ -5,6 +5,7 @@ public class Scoreboard {
         //scores array holds the results of the matches
         String[] scores = new String[]{"Liverpool 3:2 PSG", "RedStar 0:0 Napoli", "PSG 6:1 RedStar", "Napoli 1:0 Liverpool"};
         
+        
         //Holds the team name as the key and the points scored as the value
         Map<String, Integer> points = new TreeMap<String, Integer>(); // holds the points and name of team
         
