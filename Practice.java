@@ -27,6 +27,7 @@ public class Practice {
             System.out.println("[ " + matrix[c1][0] + " " + matrix[c1][1] + " ]");
         }
     }
+    /*
     /**
      * Parses the matrix looking for duplcate endings in one column
      * @param matrix
@@ -51,6 +52,7 @@ public class Practice {
         //loop runs through the columns of the matrix, beginning at 0, to end
         
         return ultered;
+        */
     }
     
 }
